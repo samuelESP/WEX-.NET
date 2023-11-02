@@ -37,7 +37,7 @@ Inicia um projeto .net com a finalidade de usar como saida o console
 
 Compila e executa o meu codigo.
 
-<img src="/Aprendendo-dotnet/imagens/dotnet_run.png">
+<img src="/imagens/dotnet_run.png">
 
 # Program.cs
 
@@ -45,13 +45,13 @@ Ele é a porta de entrada do meu programa, ele é a minha main por onde irei exe
 
 # Criar uma classe:
 
-<img src="/Aprendendo-dotnet/imagens/CriandoNovaClasse1.1.png">
+<img src="/imagens/CriandoNovaClasse1.1.png">
 
-<img src="/Aprendendo-dotnet/imagens/CriandoNovaClasse1.2.png">
+<img src="/imagens/CriandoNovaClasse1.2.png">
 
 ## Atalho Prop
 
-<img src="/Aprendendo-dotnet/imagens/atalhoProp.png">
+<img src="/imagens/atalhoProp.png">
 
 # NameSpace
 
@@ -108,7 +108,7 @@ P1.Apresentar();
 
 Ele não se diferencia muito das outras linguagens, é praticamente a mesma coisa que o java
 
-<img src="/Aprendendo-dotnet/imagens/tipo de valores.png">
+<img src="/imagens/tipo de valores.png">
 
 Note que o tipo decimal corta 0 **0** que vem depois do **8**.
 Para não cortar tive que transformar ele em outro tipo de dado, que no caso foi uma string

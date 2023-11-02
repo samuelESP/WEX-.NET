@@ -1,0 +1,11 @@
+C:\Users\samuel\Desktop\workspace\WEX\Aprendendo-dotnet\ExemploFundamentos.Common\bin\Debug\net7.0\ExemploFundamentos.Common.deps.json
+C:\Users\samuel\Desktop\workspace\WEX\Aprendendo-dotnet\ExemploFundamentos.Common\bin\Debug\net7.0\ExemploFundamentos.Common.dll
+C:\Users\samuel\Desktop\workspace\WEX\Aprendendo-dotnet\ExemploFundamentos.Common\bin\Debug\net7.0\ExemploFundamentos.Common.pdb
+C:\Users\samuel\Desktop\workspace\WEX\Aprendendo-dotnet\ExemploFundamentos.Common\obj\Debug\net7.0\ExemploFundamentos.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samuel\Desktop\workspace\WEX\Aprendendo-dotnet\ExemploFundamentos.Common\obj\Debug\net7.0\ExemploFundamentos.Common.AssemblyInfoInputs.cache
+C:\Users\samuel\Desktop\workspace\WEX\Aprendendo-dotnet\ExemploFundamentos.Common\obj\Debug\net7.0\ExemploFundamentos.Common.AssemblyInfo.cs
+C:\Users\samuel\Desktop\workspace\WEX\Aprendendo-dotnet\ExemploFundamentos.Common\obj\Debug\net7.0\ExemploFundamentos.Common.csproj.CoreCompileInputs.cache
+C:\Users\samuel\Desktop\workspace\WEX\Aprendendo-dotnet\ExemploFundamentos.Common\obj\Debug\net7.0\ExemploFundamentos.Common.dll
+C:\Users\samuel\Desktop\workspace\WEX\Aprendendo-dotnet\ExemploFundamentos.Common\obj\Debug\net7.0\refint\ExemploFundamentos.Common.dll
+C:\Users\samuel\Desktop\workspace\WEX\Aprendendo-dotnet\ExemploFundamentos.Common\obj\Debug\net7.0\ExemploFundamentos.Common.pdb
+C:\Users\samuel\Desktop\workspace\WEX\Aprendendo-dotnet\ExemploFundamentos.Common\obj\Debug\net7.0\ref\ExemploFundamentos.Common.dll

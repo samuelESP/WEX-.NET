@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Aprendendo-dotnet", "Aprendendo-dotnet", "{C9461A9A-4947-46A1-B405-C6B39E6E46EB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "tt", "Aprendendo-dotnet\ExemploFundamentos\tt.csproj", "{F88B93F5-4423-4761-8408-2AD160AE649C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F88B93F5-4423-4761-8408-2AD160AE649C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F88B93F5-4423-4761-8408-2AD160AE649C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F88B93F5-4423-4761-8408-2AD160AE649C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F88B93F5-4423-4761-8408-2AD160AE649C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F88B93F5-4423-4761-8408-2AD160AE649C} = {C9461A9A-4947-46A1-B405-C6B39E6E46EB}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0DF80F4-4093-4B39-9ED3-63C9CD73DD0A}
+	EndGlobalSection
+EndGlobal

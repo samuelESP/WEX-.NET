@@ -28,6 +28,8 @@
     - [Resize](#redimensionar-um-array-resize)
     - [Copy](#copiando-um-array-para-outro-copy)
 - [Listas](#listas)
+    - [Adicionar](#adicionar-elemento-na-list)
+    - [Remove](#remover-elemento-na-list)
 
 ## Donet new console
 
@@ -495,6 +497,8 @@ Ela funciona como se fosse uma extensão de um array.
 
 ***List&lt;TipoDedado&gt; nomeDaLista = new List&lt;TipoDedado&gt;()***
 
+## Adicionar elemento na List
+
 para adicionar elementos:
 
 ***NomeDaLista.Add(elemento)***
@@ -537,3 +541,25 @@ Itens da minha Lista: 5
 Itens da minha Lista: 6
 ```
 
+
+## Remover elemento na List
+
+Existe duas maneira simples de remover um elemento na List.
+
+1- Por meio do ***List.Remove(ElementoASerRemovido)***;
+
+2- Usando o ***List.RemoveAt(IndiceDoElementoASerRemovido)***
+
+```cs
+List<int> listaDeInteiros = new List<int>{1,2,3,4,5};
+listaDeInteiros.Remove(3);//Remove pelo elemento
+//listaDeInteiros = {1,2,4,5}
+//OBS: ele vai eliminar apenas o primeiro elemento que ele encontrar na List
+//Caso tenha mais de um elemento igual ele apenas vai eliminar 1, para eliminar todos vai precisar fazer um loop
+```
+
+```cs
+List<int> listaDeInteiros = new List<int>{1,2,3,4,5};
+listaDeInteiros.RemoveAt(1);//Remove pelo indice
+//listaDeInteiros = {1,3,4,5}
+```

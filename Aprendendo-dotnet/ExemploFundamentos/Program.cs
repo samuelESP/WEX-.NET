@@ -146,7 +146,7 @@ Array.Copy(arrayDeInterios, arrayInteirosDobrados, arrayDeInterios.Length);
 for (int i = 0; i < arrayInteirosDobrados.Length; i++)
 {
     Console.WriteLine($"posição numero {i} --- valor..: {arrayInteirosDobrados[i]}");
-}*/
+}
 
 List<string> listaDeEstados = new List<string>();
 listaDeEstados.Add("MG");
@@ -157,3 +157,13 @@ listaDeEstados.Add("RN");
 Console.WriteLine($"Itens da minha Lista: {listaDeEstados.Count}");
 listaDeEstados.Add("SC");
 Console.WriteLine($"Itens da minha Lista: {listaDeEstados.Count}");
+listaDeEstados.Remove("MG");
+Console.WriteLine("Remove...:");
+foreach(string estado in listaDeEstados){
+    Console.WriteLine($"{estado}");
+}
+Console.WriteLine("RemoveAt...:");
+listaDeEstados.RemoveAt(0);
+foreach(string estado in listaDeEstados){
+    Console.WriteLine($"{estado}");
+}*/
